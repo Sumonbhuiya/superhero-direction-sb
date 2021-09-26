@@ -1,6 +1,6 @@
 # Book Writers Superhero React App
 
-This project was bootstrapped with [Create React App](https://hire-writers-sumon.netlify.app/).
+This project was bootstrapped with Create React App and publish on [Netlify](https://hire-writers-sumon.netlify.app/).
 
 ## Available Scripts
 

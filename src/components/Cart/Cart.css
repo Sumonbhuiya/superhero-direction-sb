@@ -1,0 +1,25 @@
+/* shopping cart design  */
+.cart-heading{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(92, 90, 90);
+    padding-bottom: 10px;
+}
+.cart-quantity{
+    font-weight: bold;
+    font-size: larger;
+    color:rgb(65, 65, 182);
+}
+.cart-total{
+    font-weight: bold;
+    font-size: larger;
+    color:rgb(65, 65, 182);
+}
+.author-name{
+    font-weight: bold;
+    color: rgb(92, 90, 90);
+}
+.cart-author li{
+    list-style: none;
+}

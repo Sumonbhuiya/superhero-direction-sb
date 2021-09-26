@@ -1,0 +1,39 @@
+/* writers description */
+.writer-display{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(39, 51, 39);
+    border-radius: 10px;
+    margin: 5px;
+    box-shadow: 0px 0px 40px rgba(255, 12, 12, 0.15);
+}
+.writer-display:hover{
+    border-color: rgb(224, 210, 158);
+}
+.writer-display img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+.writer-details{
+    padding-top: 10px;
+}
+.writer-details li{
+    list-style: none;
+    padding: 3px;
+    text-align: left;
+}
+.writer-details span{
+    font-weight: bold;
+}
+.order-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.order-button:hover{
+    background-color: darkgoldenrod;
+}

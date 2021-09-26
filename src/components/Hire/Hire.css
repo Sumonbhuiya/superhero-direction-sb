@@ -1,0 +1,22 @@
+/* body design  */
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+/* product */
+.book-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+/* shop cart  */
+.cart-container{
+    background-color: honeydew;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: left;
+}

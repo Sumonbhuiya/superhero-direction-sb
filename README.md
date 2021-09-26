@@ -8,11 +8,11 @@ In the project directory, you can find:
 
 ### `Some Superheros`
 
-When you run this app, then you can find some superheros.\
+When you run this app, then you can find some superheros.
 
 They are from different countris.
 
-### `Writers Books`
+### `Books Writer`
 
 When you run this app then you can also see one famous book name.\
 See the section about [run](https://hire-writers-sumon.netlify.app/).

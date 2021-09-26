@@ -10,7 +10,7 @@ In the project directory, you can find:
 
 When you run this app, then you can find some superheros.\
 
-They are from different countris.\
+They are from different countris.
 
 ### `Writers Books`
 
